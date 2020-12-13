@@ -19,6 +19,7 @@ plt.xlabel("Population growth by year")
 
 # add a title to the chart
 plt.title("World Population Growth", pad="20", **hfont)
+
 #run the show method (this lives inside the pyplot package)
 #this wil generate a graphic in a new window
 plt.show()

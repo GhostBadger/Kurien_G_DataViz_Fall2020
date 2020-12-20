@@ -1,6 +1,6 @@
 # Kurien_G_DataViz_Fall2020
 Telling a story about Canada using the Olympics data and by learning and matplotlab to create three different data points and two visualizations for each (6 charts total) and adding all of it to one page html page
-<h1> A single page html site that will display canadian stats in the Winter Olympics</h1>
+<h1> A single page html site that will display anadian stats in the Winter Olympics</h1>
 
 *The python scripts used to make the graphs are included if you want to have some fun with them*
 
